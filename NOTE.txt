@@ -1,0 +1,10 @@
+To install Nodejs website:
+    npm install
+    npm init -y
+    npm install --save express
+    npm install ejs --save
+    npm install --save request
+
+
+To run a file:
+    node index.js
